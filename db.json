@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "Ahmed",
+      "email": "ahmed@gmail.com",
+      "numberOfBookings": "12",
+      "isPremiumUser": true,
+      "premiumCode": "CD2NB"
+    },
+    {
+      "id": 2,
+      "username": "Sara",
+      "email": "sara@gmail.com",
+      "numberOfBookings": "Bcf142",
+      "isPremiumUser": false,
+      "premiumCode": "DFR14Oi"
+    },
+    {
+      "id": 3,
+      "username": "Steven",
+      "email": "steven12@gmail.com",
+      "numberOfBookings": "DF1U2r",
+      "isPremiumUser": true,
+      "premiumCode": "RTY782"
+    }
+  ]
+}
